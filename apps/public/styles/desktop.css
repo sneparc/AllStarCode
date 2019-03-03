@@ -172,6 +172,16 @@ div.desc {
 	margin-top: -50px;
 }
 
+
+
+#WebDevelopment p{
+	margin-left: 106px;
+}
+
+#banner{
+	height: 225px;
+}
+
 .list-inline{
 	list-style-type: none;
 	position: relative;
@@ -186,16 +196,7 @@ div.desc {
 }
 
 
-
-li{
+.list-inline li{
 	display: inline-block;
 	margin-left: 15px
-}
-
-#WebDevelopment p{
-	margin-left: 106px;
-}
-
-#banner{
-	height: 225px;
 }
