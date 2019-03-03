@@ -4,7 +4,7 @@ body{
 
 #banner{
 	min-width: 961px;
-	height: 150px;
+	height: 500px;
 	margin: 0 auto;
 	border: solid 1px #000;
 }
@@ -52,7 +52,8 @@ nav a:link, a:visited {
     text-decoration: none;
     text-transform: uppercase;
 }
-a:hover, a:active {
+
+nav a:hover, a:active {
     background-color: #000;
 }
 #sectionWrap{
@@ -169,6 +170,26 @@ div.desc {
 
 #portfolio ol{
 	margin-top: -50px;
+}
+
+.list-inline{
+	list-style-type: none;
+	position: relative;
+	left: 35%;
+	right: 50%;
+	margin-top:-50px;
+	
+}
+
+#banner{
+	height: 225px;
+}
+
+
+
+li{
+	display: inline-block;
+	margin-left: 15px
 }
 
 #WebDevelopment p{
