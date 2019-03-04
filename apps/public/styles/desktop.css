@@ -201,7 +201,7 @@ div.desc {
 	margin-left: 15px
 }
 
-li{
+.faves ul ol li{
 	list-style-type: disc;
 	display: block;
 
